@@ -1,3 +1,5 @@
+Nest Js is One of the most reliable modern backend Framework for building fast efficient and scalable Applications . This Application was built as a prototype for a real world eccomerce application where you can order For the Product and Items Sold. I would've love to drop the actual code but it is Confidential ... :innocent: 
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
